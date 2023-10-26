@@ -1,0 +1,2 @@
+# Login-Form-SIP-Tes1
+Repository ini adalah bagian dari tes pertama dalam proses pendaftaran magang di PT Sinegy Informasi Pratama. Proyek ini bertujuan untuk membuat tampilan form login yang user-friendly dan responsif. Dalam pengembangannya, kami telah menggunakan framework/library Tailwind CSS untuk memperbagus tampilan form login. Form login yang telah kami buat dirancang untuk memberikan pengalaman pengguna yang nyaman dan responsif, sehingga dapat diakses dengan baik di berbagai perangkat dan lebar layar

@@ -5,6 +5,7 @@ Repository ini adalah bagian dari tes pertama dalam proses pendaftaran magang di
 - git clone https://github.com/riskimeji/Login-Form-SIP-Tes1.git
 - cd Login-Form-SIP-Tes1
 - buka file index.html didalam folder Login-Form-SIP-Tes1
+
 ##Instalasi Melalui Download
 - Download project melalui link https://github.com/riskimeji/Login-Form-SIP-Tes1.git
 - buka folder Login-Form-SIP-Tes1
